@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+    http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!-- Bean Tidak Butuhkan Jika Menggunakan Annotation Base-->
+
+<!--    <bean id="accountRepository" class="com.ferdev.belajar.spring.baru.repository.impl.AccountRepositoryImpl"></bean>-->
+
+<!--    <bean id="accountService" class="com.ferdev.belajar.spring.baru.service.impl.AccounServiceImpl">-->
+<!--        <property name="accountRepository" ref="accountRepository"></property>-->
+<!--    </bean>-->
+
+
+</beans>
